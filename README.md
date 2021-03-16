@@ -7,3 +7,4 @@ This programs are shorter than the ones that are in practical book and are easy 
 I am going to add more practicals so please stay tuned.
 #
 Thanks for coming to my github and if you like the codes (and understand them), please share this repository to your other friends who are also finding Practicals difficult...........
+You can just Download Repository(if on Windows) or clone (if on linux and mac) and try it yourself.
